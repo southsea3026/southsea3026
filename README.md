@@ -19,3 +19,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=southsea3026)](https://github.com/southsea3026/github-readme-stats)
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
