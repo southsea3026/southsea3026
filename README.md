@@ -12,9 +12,16 @@
 📫 How to reach me: ...
 
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsouthsea3026&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23C0BEBE&title=Github&edge_flat=false)
+<a href="https://youtube.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsouthsea3026&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23C0BEBE&title=Github&edge_flat=false">
+  
+<!-- add (a href) and (img src) to link when clicked -->
 
+<a href="https://youtube.com"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=southsea3026&layout=compact">
+   
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=southsea3026&layout=compact)](https://github.com/southsea3026/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=southsea3026)](https://github.com/southsea3026/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=southsea3026&layout=compact)(https://github.com/southsea3026/github-readme-stats)
+Original paste was this. Don't know what they do [![] and back ()github link.
+-->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=southsea3026)(https://github.com/southsea3026/github-readme-stats)
+<a href="https://youtube.com"><img src="https://github-readme-stats.vercel.app/api?username=southsea3026">
