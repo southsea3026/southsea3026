@@ -25,7 +25,7 @@
 Original paste was this. Don't know what they do [![] and back ()github link. -->
 
 
-<a href="https://youtube.com"><img src="https://github-readme-stats.vercel.app/api?username=southsea3026&theme=dracula">
+<a href="https://youtube.com"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=southsea3026&theme=dracula">
 
 <!-- all link goes to youtube just let you know -->
  
