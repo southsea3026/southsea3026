@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-🌱 I’m currently learning ...
+🌱 I’m currently learning Python, Java, Web, ios
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 
 
 👯 I’m looking to collaborate on ...
 
-🤔 I’m looking for help with ...
+🤔 I’m looking for help with Almost Everything...
 
-📫 How to reach me: ...
+📫 How to reach me: E-mail -> khw90623@gmail.com
 
 
 <a href="https://youtube.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsouthsea3026&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23C0BEBE&title=Github&edge_flat=false">
