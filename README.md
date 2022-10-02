@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Python, Java, Web, ios
+🌱 I’m currently learning C, Python, Java, Web, ios
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 
